@@ -7,7 +7,7 @@ Outra opção para aquisição das aulas online: https://go.hotmart.com/U2517855
 
 Grupo no LinkedIn para comunicação sobre questões técnicas e profissionais: https://www.linkedin.com/groups/8919447/
 
-Descrição da primeira parte do Curso Moving2DS:
+### Descrição da primeira parte do Curso Moving2DS
 
 1. Na aula 0, iremos nos conhecer e irei apresentar o conteúdo do repositório Github que será utilizado ao longo das aulas.
 
