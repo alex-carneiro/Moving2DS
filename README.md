@@ -1,11 +1,13 @@
 # Moving2DS
-Repository for the course Moving2DS created by Alex Carneiro
+Repositório para o curso Moving2DS criado por Alex Carneiro
 
-The 1st part of the course is available at: https://go.hotmart.com/U25178556K
+Aulas online referentes à primeira parte do curso: https://www.udemy.com/course/moving2ds-movendo-para-data-science-parte-1/
 
-LinkedIb group: https://www.linkedin.com/groups/8919447/
+Outra opção para aquisição das aulas online: https://go.hotmart.com/U25178556K
 
-Course description (in Portuguese):
+Grupo no LinkedIn para comunicação sobre questões técnicas e profissionais: https://www.linkedin.com/groups/8919447/
+
+Descrição da primeira parte do Curso Moving2DS:
 
 1. Na aula 0, iremos nos conhecer e irei apresentar o conteúdo do repositório Github que será utilizado ao longo das aulas.
 
